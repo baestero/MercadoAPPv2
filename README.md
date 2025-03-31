@@ -8,4 +8,3 @@ Este é um projeto de mercado online com funcionalidades de cadastro de usuário
 - **Banco de Dados**: SQLite
 - **Web Server**: Node.js
 
-## Estrutura do Projeto
