@@ -5,7 +5,7 @@ Este é um projeto de mercado online com funcionalidades de cadastro de usuário
 ## Tecnologias Utilizadas
 - **Frontend**: React, HTML, CSS, JavaScript
 - **Backend**: Flask (Python)
-- **Banco de Dados**: MySQL
+- **Banco de Dados**: SQLite
 - **Web Server**: Node.js
 
 ## Estrutura do Projeto
